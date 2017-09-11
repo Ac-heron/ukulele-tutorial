@@ -1,4 +1,9 @@
-# Ukulele
+#Ukulele
+
+
+### RESOURCE
+https://www.justinguitar.com/en/UK-000-UkuleleLessons.php
+
 ### 目录
     .
     ├── README.md
