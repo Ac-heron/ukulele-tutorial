@@ -1,11 +1,12 @@
 # Ukulele学习资料
 这里整理我在学习Ukulele过程中收集整理的一些资料。
 
-### RESOURCE
-https://www.justinguitar.com/en/UK-000-UkuleleLessons.php
 
 ### 视频教程
 - [桃子&鱼仔课堂](http://i.youku.com/alohaukulele)
+- [白熊音乐Ukulele](https://space.bilibili.com/71565747#!/)
+- [小丸子Ukulele](https://space.bilibili.com/32216802#!/)
+- [小鱼吉他屋Ukulele](https://space.bilibili.com/32484057#!/)
 
 
 ### Ukulele网站
@@ -19,5 +20,6 @@ https://www.justinguitar.com/en/UK-000-UkuleleLessons.php
 
 
 
-
+https://www.zhihu.com/question/31855715
 http://www.ukulelefan.com/jiaoxue.html
+https://www.justinguitar.com/en/UK-000-UkuleleLessons.php
